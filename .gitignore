@@ -1,0 +1,18 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+.DS_Store
+Thumbs.db
+
+# Local/generated datasets
+*.csv
+
+# Generated analysis output
+*.html
+
+# Environment and secrets
+.env
+.env.*
